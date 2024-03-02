@@ -7,7 +7,7 @@ import Todoitems from "./Component/Todoitems";
 function App() {
   const todoItems = [
     {
-      name: "Milk",
+      name: "Milk-Shake",
       dueDate: "29/04/24",
     },
     {
