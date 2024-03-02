@@ -12,7 +12,7 @@ function App() {
     },
     {
       name: "Amul Lassii",
-      dueDate: "18/09/23",
+      dueDate: "18/01/23",
     },
     {
       name: "Cold Drinks",
