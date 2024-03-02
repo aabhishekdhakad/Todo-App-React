@@ -8,7 +8,7 @@ function App() {
   const todoItems = [
     {
       name: "Milk-Shake",
-      dueDate: "29/04/24",
+      dueDate: "29/04/02",
     },
     {
       name: "Amul Lassi",
