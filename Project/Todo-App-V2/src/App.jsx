@@ -11,7 +11,7 @@ function App() {
       dueDate: "29/04/02",
     },
     {
-      name: "Amul Lassi",
+      name: "Amul Lassii",
       dueDate: "18/09/23",
     },
     {
