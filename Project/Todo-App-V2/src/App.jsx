@@ -19,7 +19,7 @@ function App() {
       dueDate: "04/10/24",
     },
     {
-      name: "Pizza",
+      name: "Corn-Pizza",
       dueDate: "12/11/21",
     },
     {
