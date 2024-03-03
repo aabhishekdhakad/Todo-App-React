@@ -25,7 +25,7 @@ function App() {
   return (
   
     <>
-      <h1>Healthy Food</h1>
+      <h1>Healthy Food's</h1>
       {/* Type-2 */}
        {/* {foodItems.length === 0 ? <h1>I am still hungry</h1> : null} */}
 
